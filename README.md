@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Davi! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+ADS;Aprendendo+C%23+e+C;Construindo+projetos+na+pr%C3%A1tica;Sempre+com+uma+d%C3%BAvida+nova+%F0%9F%98%84" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software;Aprendendo+C%23+e+C;Construindo+projetos+na+pr%C3%A1tica;Sempre+com+uma+d%C3%BAvida+nova+%F0%9F%98%84" alt="Typing SVG" />
 </p>
 
 ---
