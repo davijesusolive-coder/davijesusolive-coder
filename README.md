@@ -8,7 +8,7 @@
 
 ### 🙋‍♂️ Sobre mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 🎓 Estudante de **Engenharia de Software**
 - 💻 Aprendendo programação do zero, com foco em **C#** e **C**
 - 🎮 Construindo um **RPG em terminal**, pra praticar Orientação a Objetos na prática
 - 📚 Estudando conceitos como **SOLID, Clean Code, Git, APIs REST e banco de dados**
